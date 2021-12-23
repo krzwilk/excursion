@@ -4,12 +4,22 @@ body
     }
 h1{
     color: white;
-    font-size: 3em;
-    font-family: "Verdana" "sans-serif";
+    font-size: 50px;
+    font-family: "Verdana";
 }
 a
 {
-    color:aqua;
-    font-size: 1.5em;
+    color:aquamarine;
+    font-size: 16px;
 
+}
+.player{
+height: 600px;
+width: auto;
+}
+video{
+    align-items: center;
+    height: 100%;
+    width: 100%;
+   
 }
