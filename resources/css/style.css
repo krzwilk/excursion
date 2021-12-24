@@ -6,6 +6,7 @@ body
 .header--main{
     color: white;
     font-size: 50px;
+    font-weight: normal;
     /*font-family: "Verdana";*/
 }
 .link--cta
