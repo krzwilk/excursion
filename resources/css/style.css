@@ -3,12 +3,12 @@ body
         text-align: center;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
-h1{
+.header--main{
     color: white;
     font-size: 50px;
     /*font-family: "Verdana";*/
 }
-a
+.link--cta
 {
     color:aquamarine;
     font-size: 16px;
