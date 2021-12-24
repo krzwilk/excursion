@@ -15,6 +15,16 @@ body
     font-size: 16px;
 
 }
+.header--secendery{
+    color: white;
+    font-size: 48px;
+    font-weight: 300;
+}
+.subheader{
+    color: gray;
+    font: size 21px;
+
+}
 /*.player{
 height: 600px;
 width: auto;
