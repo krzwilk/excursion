@@ -24,6 +24,10 @@ body
     color: gray;
     font-size:21px;
 }
+.footer--copyright{
+    text-align: right;
+    color: gray;
+}
 /*.player{
 height: 600px;
 width: auto;
